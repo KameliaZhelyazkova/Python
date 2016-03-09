@@ -12,4 +12,4 @@ while True:
     startIndex = result + len(wordToSearchFor) - 1
     
     
-print("Number of times bob occurs is: " + str(counter))
+print("Number of times bob occurs is: " + str(counter));

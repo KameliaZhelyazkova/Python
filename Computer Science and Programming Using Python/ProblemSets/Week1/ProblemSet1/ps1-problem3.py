@@ -20,4 +20,4 @@ while index < len(s) - 1:
 
     index += 1
     
-print(bestSquence)
+print(bestSquence);

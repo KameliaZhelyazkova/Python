@@ -1,4 +1,4 @@
- # Paste your code into this box 
+ # Paste your code into this box
  
 counter = 0;
 
